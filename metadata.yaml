@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '26665'
     url: http://www.gutenberg.org/2009/agents/26665
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24676#Peeps-at-Many-Lands--Norway
 gutenberg_bookshelf:
 - Children's Instructional Books
 - Norway
