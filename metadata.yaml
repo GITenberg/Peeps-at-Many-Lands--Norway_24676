@@ -1,0 +1,46 @@
+_repo: Peeps-at-Many-Lands--Norway_24676
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Jungmann, Nico
+    alias: Jungman, Nico
+    birthdate: 1872
+    deathdate: 1935
+    gutenberg_agent_id: '26664'
+    url: http://www.gutenberg.org/2009/agents/26664
+    wikipedia: https://en.wikipedia.org/wiki/Nico_Jungmann
+  - agent_name: Cooper, A. Heaton (Alfred Heaton)
+    alias: Cooper, Alfred Heaton
+    birthdate: 1863
+    deathdate: 1929
+    gutenberg_agent_id: '26663'
+    url: http://www.gutenberg.org/2009/agents/26663
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Heaton_Cooper
+covers:
+- cover_type: archival
+  image_path: 24676-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Mockler-Ferryman, A. F. (Augustus Ferryman)
+    alias: Mockler-Ferryman, Augustus Ferryman
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '26665'
+    url: http://www.gutenberg.org/2009/agents/26665
+description: ''
+gutenberg_bookshelf:
+- Children's Instructional Books
+- Norway
+gutenberg_issued: '2008-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Description and travel'
+- !lcc 'DL'
+title: 'Peeps at Many Lands: Norway'
+url: http://www.gutenberg.org/ebooks/24676
